@@ -21,7 +21,7 @@ public class PersonRepository {
     public static final String ACCESS_KEY = "";
     public static final String SECRET_KEY = "";
     public static final String SERVICE_ENDPOINT = "";
-    public static final String REGION = ""; 
+    public static final String REGION = "";
 
 
 //    @Autowired
